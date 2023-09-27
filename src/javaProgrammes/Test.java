@@ -21,8 +21,10 @@ public class Test {
     	
     	String expr = "{[(}])";
     	
-      
-    	
+          
+    	char s='c';
+       int h=s;
+       System.out.println(h);
     
     	
        
