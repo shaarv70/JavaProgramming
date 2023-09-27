@@ -21,7 +21,7 @@ public class Test {
     	
     	String expr = "{[(}])";
     	
-      
+      int g=100;
     }
     
     public static boolean isPrime()
