@@ -21,6 +21,9 @@ public class Test {
     	
     	String expr = "{[(}])";
     	int x=90;
+    	
+    	char ch='o';
+    	int i=ch;
           
     }
     
