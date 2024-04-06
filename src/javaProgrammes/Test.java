@@ -19,8 +19,8 @@ public class Test {
         
        String h="Casttypes";
        String l1="types-1";
-	    String h="priyanka";
-
+	    String z="priyanka";
+     String o="89";
 
     
     }
