@@ -21,6 +21,7 @@ public class Test {
        String l1="types-1";
        
        Map<String,String> mymap= new HashMap<String,String>();
+       mymap.put("Aa","aa");
 
 
     
