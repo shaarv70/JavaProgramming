@@ -19,6 +19,11 @@ public class Test {
 
 
 
+        int rusting=8;
+        int cast=90;
+        int size=67;
+
+
     
     }
 
