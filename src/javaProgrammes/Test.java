@@ -1,19 +1,7 @@
 package javaProgrammes;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.LinkedHashMap;
 import java.util.List;
-import java.util.Map;
-import java.util.Map.Entry;
-import java.util.Scanner;
-import java.util.Set;
-import java.util.Stack;
-import java.util.concurrent.ConcurrentHashMap;
-import java.util.stream.Collectors;
 
 public class Test {
 
@@ -23,7 +11,7 @@ public class Test {
     	int x=90;
         int k=64;
         int y=456;
-   
+        List<String> h= new ArrayList<>();
 
 
     
