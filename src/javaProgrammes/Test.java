@@ -23,6 +23,9 @@ public class Test {
     	int x=90;
         int k=64;
         int y=456;
+        int l= 456
+	    
+	
    
 
 
