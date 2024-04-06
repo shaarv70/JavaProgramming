@@ -1,7 +1,7 @@
 package javaProgrammes;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Test {
 
@@ -13,18 +13,14 @@ public class Test {
         int y=456;
 
         int l= 456;
-	    
-	
-   
-
-
-
-        int rusting=8;
+	    int rusting=8;
         int cast=90;
         int size=67;
         
        String h="Casttypes";
        String l1="types-1";
+       
+       Map<String,String> mymap= new HashMap<String,String>();
 
 
     
