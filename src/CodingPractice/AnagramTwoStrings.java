@@ -8,8 +8,8 @@ public class AnagramTwoStrings {
 	only the order of characters can be different. For example, “abcd” and “dabc” are an anagram of each other	*/
 	public static void main(String[] args) {
 		
-		String s1="java";
-		String s2="avaj";
+		String s1="naman";
+		String s2="manai";
 		
 		char[] a = s1.toCharArray();
 		char[] b= s2.toCharArray();
