@@ -10,6 +10,7 @@ public class Test {
     int l=45;
     int x=109;
     int z=10;
+    String g="arvind";
     }
 
 	
