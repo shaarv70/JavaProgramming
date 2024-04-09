@@ -9,7 +9,9 @@ public class Test {
     	
     int l=45;
     int x=109;
-    
+    int x=20;
+    int z=10;
+    String g="arvind";
     }
 
 	
