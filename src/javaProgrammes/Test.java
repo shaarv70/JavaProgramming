@@ -12,6 +12,7 @@ public class Test {
     int x=20;
     int z=10;
     String g="arvind";
+    String o="12";
     }
 
 	
